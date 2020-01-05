@@ -4,6 +4,32 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+# Udacity Machine Learning Nanodegree Capstone Project
+## Dog Breed Classifier
+
+This project was run on the udacity provided dog breed classifier workspace. The notebook dog_app.ipynb provides detailed instructions on how to run the code to replicate the analysis outside of the workspace. Code to download and unzip the datasets is provided.
+
+This code relies heavily on the pytorch and is written in python. Details on libraries used and supporting material is laid out in detail within the dog_app.ipynb file.
+
+The report file is provided in 3 different formats. The jupyter notebook is likely the most user friendly version.
+
+Resources: 
+Dog images: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+Human images: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip 
+
+libraries:
+cv2                
+matplotlib
+tqdm
+torch
+torchvision
+PIL
+os
+time
+
+
+
+# Initial Project Overview
 
 ## Project Overview
 
