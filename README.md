@@ -18,14 +18,14 @@ Dog images: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImage
 Human images: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip 
 
 libraries:
-cv2                
-matplotlib
-tqdm
-torch
-torchvision
-PIL
-os
-time
+- cv2                
+- matplotlib
+- tqdm
+- torch
+- torchvision
+- PIL
+- os
+- time
 
 
 
